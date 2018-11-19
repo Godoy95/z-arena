@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0a61970f59b44e54a85bdbe1520f6886
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Jogador: {instanceID: 0}
+  - SomDaMorte: {fileID: 8300000, guid: 5329cfdfe830670469daa3553c9289e1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

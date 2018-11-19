@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e7c22d4da7d59f14fa4d0a6576730638
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Bala: {instanceID: 0}
+  - CanoDaArma: {instanceID: 0}
+  - SomDeTiro: {fileID: 8300000, guid: c597024164095e54fbd670fd23f5e41a, type: 3}
+  - currentAmmoText: {instanceID: 0}
+  - ammoLeftText: {instanceID: 0}
+  - textoReload: {instanceID: 0}
+  - textoNoAmmo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
